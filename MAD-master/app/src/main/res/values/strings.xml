@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="transport_head">Transport</string>
+    <string name="add_transport">Calculate Transport Cost and profit</string>
+    <string name="transport_list">Transport List</string>
+    <string name="cargo_name">Item Name</string>
+    <string name="cargo_weight">Item Weight</string>
+    <string name="pickup_location">Pick-up Location</string>
+    <string name="delivery_location">Delivery Location</string>
+    <string name="select_l">Delivery Location</string>
+</resources>
